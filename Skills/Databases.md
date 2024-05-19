@@ -10,85 +10,85 @@
   - Relational databases: 🖐️ used
   - Key-value store: 🖐️ used
   - Tuple store
-  - Graph databases
-  - Object databases
-  - Column databases
-  - Navigational databases
-  - Hierarchical databases
-  - In-memory databases: 👂 heard
+  - Graph databases k
+  - Object databases k
+  - Column databases k
+  - Navigational databases k
+  - Hierarchical databases k
+  - In-memory databases: k
   - Inverted index
-  - Data control language (DCL)
-  - Data definition language (DDL): 🖐️ used
-  - Data manipulation language (DML): 🖐️ used
-  - Data query language (DQL)
+  - Data control language (DCL) u
+  - Data definition language (DDL): e
+  - Data manipulation language (DML): e
+  - Data query language (DQL) e
 - Relational
   - Entity-Relationship Diagram: 🙋 explained
-  - Normal forms
-  - Indexing
-  - Primary keys: 🖐️ used
-  - Foreign keys: 🖐️ used
-  - Transactions
-  - Views
-  - Subqueries
-  - Stored procedures
-  - SQL functions
-  - Materialized views
+  - Normal forms e
+  - Indexing e
+  - Primary keys: e
+  - Foreign keys: e
+  - Transactions e
+  - Views u
+  - Subqueries u
+  - Stored procedures u
+  - SQL functions u
+  - Materialized views k
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`: 🖐️ used
-  - `INSERT`: 🖐️ used
-  - `UPDATE`: 🖐️ used
-  - `DELETE`: 🖐️ used
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`: 🖐️ used
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
+  - `SELECT`: e
+  - `INSERT`: e
+  - `UPDATE`: e
+  - `DELETE`: e
+  - `LIMIT` k
+  - `OFFSET` k
+  - `ORDER BY` u
+  - `GROUP BY` u
+  - `HAVING` u
+  - `EXISTS` u
+  - `JOIN`: e
+  - `INNER JOIN` e
+  - `LEFT JOIN` e
+  - `RIGHT JOIN` e
+  - `UNION` u
+  - `DISTINCT` k
+  - `WHERE` e
   - `LIKE`
-  - `IN`
+  - `IN` u
   - `BETWEEN`
-  - `CREATE TABLE`: 🖐️ used
-  - `ALTER TABLE`: 🖐️ used
-  - `DROP TABLE`: 🖐️ used
-  - `PRIMARY KEY`: 🖐️ used
-  - `FOREIGN KEY`: 🖐️ used
-  - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
-  - `GRANT`
-  - `REVOKE`
+  - `CREATE TABLE`: e
+  - `ALTER TABLE`: e
+  - `DROP TABLE`: e
+  - `PRIMARY KEY`: e
+  - `FOREIGN KEY`: e
+  - `CHECK` e
+  - `DEFAULT` u
+  - `INDEX` u
+  - `UNIQUE` u
+  - `GRANT` k
+  - `REVOKE` h
   - `DENY`
-  - `EXPLAIN`
+  - `EXPLAIN` h
 - Engines
   - PostgreSQL: 🎓 known
-  - Oracle
+  - Oracle e
   - MySQL: 🎓 known
   - MariaDB
   - MS SQL Server
-  - Redis
+  - Redis h
   - Rabbit
   - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite u
   - DynamoDB
-  - Firebase
+  - Firebase u
 - Data engineering
-  - Data warehousing
-  - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
+  - Data warehousing h
+  - Business intelligence h
+  - Big data k
+  - Data analysis u
+  - AI tools h
   - Cloud databases: 👂 heard
-  - Data Visualization
+  - Data Visualization k

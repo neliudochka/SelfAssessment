@@ -3,8 +3,8 @@
 - Theory
   - Procedural programming: 🙋 explained
   - Imperative programming: 🙋 explained
-  - Structured programming
-  - Non-structured programming
+  - Structured programming h
+  - Non-structured programming h
   - Functional programming: 🙋 explained
   - Prototype-based programming
   - Object-oriented programming: 🙋 explained
@@ -13,13 +13,13 @@
   - Concurrent computing: 🎓 known
   - Asynchronous programming: 🖐️ used
   - Parallel programming: 🎓 known
-  - Reactive programming: 👂 heard
+  - Reactive programming: k
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🎓 known
-  - Metaprogramming
-  - Actor model
+  - Metaprogramming h
+  - Actor model k
   - Lambda calculus
   - Black box
   - Information hiding: 👂 heard
@@ -65,10 +65,10 @@
   - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
   - Singleton: 🙋 explained
-  - Factory Method: 🎓 known
+  - Factory Method: u
   - Abstract Factory: 🎓 known
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
+  - Adapter: k
+  - Observer: u
   - Strategy
   - Facade
   - Proxy: 🖐️ used
@@ -76,16 +76,16 @@
   - Command
   - Iterator: 🙋 explained
   - State
-  - Bridge
-  - Builder
+  - Bridge k
+  - Builder k
   - Prototype: 🖐️ used
-  - Composite
+  - Composite k
   - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor h
   - Reactor
   - Active object
-  - Delegation: 👂 heard
+  - Delegation: k

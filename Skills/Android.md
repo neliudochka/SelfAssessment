@@ -1,117 +1,117 @@
 ## Android
 - Android Basics
   - Android Studio: 🖐️ used
-  - Android project structure: 🖐️ used
+  - Android project structure: e
   - Activity lifecycle: 🙋 explained
-  - Fragments: 🖐️ used
-  - Intents: 🎓 known
-  - Views: 🖐️ used
-  - ViewGroups: 👂 heard
+  - Fragments: e
+  - Intents: e
+  - Views: e
+  - ViewGroups: e
   - Layouts: LinearLayout: 🙋 explained
   - Layouts: RelativeLayout: 🖐️ used
   - Layouts: ConstraintLayout: 🙋 explained
   - Layouts: FrameLayout: 🙋 explained
-  - Layouts: TableLayout
-  - Resources: res/values: 🖐️ used
-  - Resources: strings.xml: 🖐️ used
-  - Resources: colors.xml: 🖐️ used
-  - Resources: styles.xml: 🎓 known
-  - R class: 🖐️ used
+  - Layouts: TableLayout k
+  - Resources: res/values: e
+  - Resources: strings.xml: e
+  - Resources: colors.xml: e
+  - Resources: styles.xml: e
+  - R class: e
 - User Interface (UI)
   - XML layout files: 🙋 explained
   - TextView: 🙋 explained
-  - EditText: 🎓 known
+  - EditText: e
   - Button: 🙋 explained
-  - ImageView: 🖐️ used
-  - RecyclerView: 👂 heard
-  - ListView: 👂 heard
-  - ScrollView
-  - CardView
+  - ImageView: e
+  - RecyclerView: u
+  - ListView: u
+  - ScrollView u
+  - CardView u
   - AppBar: 🖐️ used
-  - Custom views: 👂 heard
-  - Material Design components
-  - Themes and styles: 👂 heard
-  - Animations and transitions
+  - Custom views: e
+  - Material Design components e
+  - Themes and styles: e
+  - Animations and transitions k
 - Intents and Broadcast Receivers
-  - Explicit intents: 👂 heard
-  - Implicit intents: 👂 heard
-  - Passing data between activities: 🎓 known
-  - Starting activities for result: 🖐️ used
-  - LocalBroadcastManager
-  - System broadcasts
-  - Custom broadcasts
+  - Explicit intents: u
+  - Implicit intents: u
+  - Passing data between activities: u
+  - Starting activities for result: u
+  - LocalBroadcastManager u
+  - System broadcasts u
+  - Custom broadcasts k
 - Data Storage
-  - SharedPreferences: 👂 heard
-  - Internal storage: 🎓 known
-  - External storage: 🎓 known
-  - SQLite database
-  - Room persistence library
-  - Content providers
+  - SharedPreferences: e
+  - Internal storage: e
+  - External storage: e
+  - SQLite database e
+  - Room persistence library k
+  - Content providers u
 - Networking
-  - HttpURLConnection
-  - OkHttp: 🎓 known
-  - Retrofit
+  - HttpURLConnection u
+  - OkHttp: u
+  - Retrofit u
   - JSON parsing: JSONObject: 🎓 known
   - JSON parsing: Gson: 🎓 known
-  - AsyncTask: 👂 heard
-  - Threading: 👂 heard
-  - Background services
+  - AsyncTask: u
+  - Threading: u
+  - Background services e
 - Services and Background Tasks
-  - Service lifecycle
-  - IntentService
-  - JobScheduler
-  - WorkManager
-  - BroadcastReceiver
-  - AlarmManager
-  - Foreground services
+  - Service lifecycle e
+  - IntentService e
+  - JobScheduler k
+  - WorkManager k
+  - BroadcastReceiver u
+  - AlarmManager k
+  - Foreground services e
 - Permissions
-  - Runtime permissions: 🖐️ used
-  - Permission groups
-  - Checking and requesting permissions: 👂 heard
+  - Runtime permissions: e
+  - Permission groups u
+  - Checking and requesting permissions: u
 - Multimedia
-  - Playing audio
-  - Playing video
-  - Recording audio
-  - Camera API
-  - ExoPlayer
+  - Playing audio e
+  - Playing video e
+  - Recording audio k
+  - Camera API u
+  - ExoPlayer e
 - Location and Maps
-  - Google Maps API: 👂 heard
-  - Location services
-  - Geocoding and reverse geocoding
-  - Geofencing
+  - Google Maps API: k
+  - Location services k
+  - Geocoding and reverse geocoding k
+  - Geofencing k
 - Notifications
-  - Notification channels
-  - Building notifications
-  - Notification actions
-  - Notification styles
-  - Heads-up notifications
+  - Notification channels u
+  - Building notifications u
+  - Notification actions u
+  - Notification styles u
+  - Heads-up notifications u
 - Firebase Integration
-  - Firebase Authentication
-  - Firebase Realtime Database
-  - Cloud Firestore
-  - Firebase Cloud Messaging
-  - Firebase Analytics
+  - Firebase Authentication k
+  - Firebase Realtime Database u
+  - Cloud Firestore k
+  - Firebase Cloud Messaging u
+  - Firebase Analytics k
   - Firebase Crashlytics
-  - Firebase Storage
+  - Firebase Storage k
 - Testing
   - Unit testing with JUnit: 🙋 explained
-  - UI testing with Espresso: 👂 heard
+  - UI testing with Espresso: k
   - Mocking with Mockito: 🖐️ used
-  - Robolectric
+  - Robolectric h
 - Jetpack Libraries
-  - ViewModel
-  - LiveData
-  - Data Binding: 🖐️ used
+  - ViewModel e
+  - LiveData e
+  - Data Binding: e
   - Navigation component: 🖐️ used
-  - Paging library
-  - Room
-  - CameraX
+  - Paging library k
+  - Room k
+  - CameraX k
 - Advanced Topics
   - Architecture components: MVVM: 🙋 explained
-  - Architecture components: MVI
-  - Architecture components: MVP
-  - ProGuard and R8
-  - Performance optimization
+  - Architecture components: MVI k
+  - Architecture components: MVP k
+  - ProGuard and R8 h
+  - Performance optimization k
   - App bundles: 🖐️ used
-  - Custom ROMs and rooting
+  - Custom ROMs and rooting h
   - Dependency Injection: 🙋 explained

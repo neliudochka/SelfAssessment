@@ -1,13 +1,13 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 👂 heard
+  - Modularity: k
   - Components: 🎓 known
   - Directories: 🎓 known
-  - GRASP
+  - GRASP k
   - SOLID: 🙋 explained
-  - GoF patterns
-  - CQS
+  - GoF patterns h
+  - CQS h
   - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🖐️ used
   - Contract programming: 🖐️ used
@@ -18,18 +18,18 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability k
+  - Quality k
+  - Availability k
+  - Flexibility k
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 👂 heard
   - Domain-specific language (DSL): 🎓 known
   - System vs applied code
-  - Multilayer approach: 👂 heard
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Multilayer approach: k
+  - Hexagonal architecture h
+  - Separation of concerns (SoC) h
   - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
   - Dependency injection (DI): 🙋 explained
@@ -42,17 +42,17 @@
   - Message Queue (MQ): 🎓 known
   - CQRS
   - Event sourcing
-  - E-R data modeling
+  - E-R data modeling u
   - Entity-relationship diagram: 🙋 explained
   - IDEF1X
   - UML: 🙋 explained
-  - Work breakdown structure
+  - Work breakdown structure k
   - Budget estimation: 🖐️ used
   - Distributed systems: 🎓 known
   - High-intensive computing: 👂 heard
   - Load balancing: 🎓 known
   - Gateways: 👂 heard
-  - On-premises
+  - On-premises h
   - IaaS
   - PaaS
   - SaaS
@@ -65,20 +65,20 @@
   - Solution visions
   - Solution capabilities
   - System design: 🎓 known
-  - Process modelling
+  - Process modelling h
   - Data modelling: 👂 heard
   - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
+  - Risk assessment u
+  - Non Functional Requirements (NFR) u
+  - Clouds k
   - BPMN
   - Low-code: 👂 heard
   - No-code: 🎓 known
-  - Metric
+  - Metric h
   - Metric abuse
   - ACID: 👂 heard
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT) h
 - Enterprise architecture
   - Understanding business needs: 🖐️ used
   - Enterprise strategy: 👂 heard
@@ -87,14 +87,14 @@
   - Enterprise capabilities
   - Project scope: 👂 heard
   - Enterprise service bus
-  - Service-oriented architecture
+  - Service-oriented architecture h
   - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse: 👂 heard
   - Business Intelligence
-  - OLAP
-  - OLTP
-  - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - OLAP h
+  - OLTP h
+  - Conways Law k
+  - Quality assurance k
+  - Engineering Hygiene h
