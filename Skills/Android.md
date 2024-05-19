@@ -1,60 +1,60 @@
 ## Android
-- Android Basics 
-  - Android Studio u
-  - Android project structure u
-  - Activity lifecycle e
-  - Fragments u
-  - Intents k
-  - Views u
-  - ViewGroups h 
-  - Layouts: LinearLayout e
-  - Layouts: RelativeLayout u
-  - Layouts: ConstraintLayout e 
-  - Layouts: FrameLayout e
+- Android Basics
+  - Android Studio: 🖐️ used
+  - Android project structure: 🖐️ used
+  - Activity lifecycle: 🙋 explained
+  - Fragments: 🖐️ used
+  - Intents: 🎓 known
+  - Views: 🖐️ used
+  - ViewGroups: 👂 heard
+  - Layouts: LinearLayout: 🙋 explained
+  - Layouts: RelativeLayout: 🖐️ used
+  - Layouts: ConstraintLayout: 🙋 explained
+  - Layouts: FrameLayout: 🙋 explained
   - Layouts: TableLayout
-  - Resources: res/values u 
-  - Resources: strings.xml u
-  - Resources: colors.xml u
-  - Resources: styles.xml k
-  - R class u
+  - Resources: res/values: 🖐️ used
+  - Resources: strings.xml: 🖐️ used
+  - Resources: colors.xml: 🖐️ used
+  - Resources: styles.xml: 🎓 known
+  - R class: 🖐️ used
 - User Interface (UI)
-  - XML layout files e
-  - TextView e
-  - EditText k
-  - Button e
-  - ImageView u
-  - RecyclerView h
-  - ListView h
+  - XML layout files: 🙋 explained
+  - TextView: 🙋 explained
+  - EditText: 🎓 known
+  - Button: 🙋 explained
+  - ImageView: 🖐️ used
+  - RecyclerView: 👂 heard
+  - ListView: 👂 heard
   - ScrollView
   - CardView
-  - AppBar u
-  - Custom views h
+  - AppBar: 🖐️ used
+  - Custom views: 👂 heard
   - Material Design components
-  - Themes and styles h
+  - Themes and styles: 👂 heard
   - Animations and transitions
 - Intents and Broadcast Receivers
-  - Explicit intents h
-  - Implicit intents h
-  - Passing data between activities k
-  - Starting activities for result u
+  - Explicit intents: 👂 heard
+  - Implicit intents: 👂 heard
+  - Passing data between activities: 🎓 known
+  - Starting activities for result: 🖐️ used
   - LocalBroadcastManager
   - System broadcasts
   - Custom broadcasts
 - Data Storage
-  - SharedPreferences h
-  - Internal storage k
-  - External storage k
+  - SharedPreferences: 👂 heard
+  - Internal storage: 🎓 known
+  - External storage: 🎓 known
   - SQLite database
   - Room persistence library
   - Content providers
 - Networking
   - HttpURLConnection
-  - OkHttp k
+  - OkHttp: 🎓 known
   - Retrofit
-  - JSON parsing: JSONObject k
-  - JSON parsing: Gson k
-  - AsyncTask h
-  - Threading h
+  - JSON parsing: JSONObject: 🎓 known
+  - JSON parsing: Gson: 🎓 known
+  - AsyncTask: 👂 heard
+  - Threading: 👂 heard
   - Background services
 - Services and Background Tasks
   - Service lifecycle
@@ -65,9 +65,9 @@
   - AlarmManager
   - Foreground services
 - Permissions
-  - Runtime permissions u
+  - Runtime permissions: 🖐️ used
   - Permission groups
-  - Checking and requesting permissions h
+  - Checking and requesting permissions: 👂 heard
 - Multimedia
   - Playing audio
   - Playing video
@@ -75,7 +75,7 @@
   - Camera API
   - ExoPlayer
 - Location and Maps
-  - Google Maps API h
+  - Google Maps API: 👂 heard
   - Location services
   - Geocoding and reverse geocoding
   - Geofencing
@@ -94,25 +94,24 @@
   - Firebase Crashlytics
   - Firebase Storage
 - Testing
-  - Unit testing with JUnit e
-  - UI testing with Espresso h
-  - Mocking with Mockito u
+  - Unit testing with JUnit: 🙋 explained
+  - UI testing with Espresso: 👂 heard
+  - Mocking with Mockito: 🖐️ used
   - Robolectric
 - Jetpack Libraries
   - ViewModel
   - LiveData
-  - Data Binding u
-  - Navigation component u
+  - Data Binding: 🖐️ used
+  - Navigation component: 🖐️ used
   - Paging library
   - Room
-  - WorkManager
   - CameraX
 - Advanced Topics
-  - Architecture components: MVVM e
+  - Architecture components: MVVM: 🙋 explained
   - Architecture components: MVI
   - Architecture components: MVP
   - ProGuard and R8
   - Performance optimization
-  - App bundles u
+  - App bundles: 🖐️ used
   - Custom ROMs and rooting
-  - Dependency Injection e
+  - Dependency Injection: 🙋 explained

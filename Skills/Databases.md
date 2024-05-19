@@ -1,32 +1,32 @@
 ## Databases
 
 - Theory and concepts
-  - Data types e
+  - Data types: 🙋 explained
   - Performance tuning
-  - Migrations k
+  - Migrations: 🎓 known
   - Schema versioning
-  - Backup and recovery k
+  - Backup and recovery: 🎓 known
   - Database scalability
-  - Relational databases u
-  - Key-value store u
+  - Relational databases: 🖐️ used
+  - Key-value store: 🖐️ used
   - Tuple store
   - Graph databases
   - Object databases
   - Column databases
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases h
+  - In-memory databases: 👂 heard
   - Inverted index
   - Data control language (DCL)
-  - Data definition language (DDL) u
-  - Data manipulation language (DML) u
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🖐️ used
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram e
+  - Entity-Relationship Diagram: 🙋 explained
   - Normal forms
   - Indexing
-  - Primary keys u
-  - Foreign keys u
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
   - Transactions
   - Views
   - Subqueries
@@ -36,17 +36,17 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN` u
+  - `JOIN`: 🖐️ used
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
@@ -56,11 +56,11 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE` u
-  - `ALTER TABLE` u
-  - `DROP TABLE` u
-  - `PRIMARY KEY` u
-  - `FOREIGN KEY` u
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,14 +70,14 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL k
+  - PostgreSQL: 🎓 known
   - Oracle
-  - MySQL k
+  - MySQL: 🎓 known
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB h
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
@@ -90,5 +90,5 @@
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databases h
+  - Cloud databases: 👂 heard
   - Data Visualization
