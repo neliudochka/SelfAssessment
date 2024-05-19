@@ -1,117 +1,117 @@
 ## Android
 - Android Basics
   - Android Studio: 🖐️ used
-  - Android project structure: e
+  - Android project structure: 🙋 explained
   - Activity lifecycle: 🙋 explained
-  - Fragments: e
-  - Intents: e
-  - Views: e
-  - ViewGroups: e
+  - Fragments: 🙋 explained
+  - Intents: 🙋 explained
+  - Views: 🙋 explained
+  - ViewGroups: 🙋 explained
   - Layouts: LinearLayout: 🙋 explained
   - Layouts: RelativeLayout: 🖐️ used
   - Layouts: ConstraintLayout: 🙋 explained
   - Layouts: FrameLayout: 🙋 explained
-  - Layouts: TableLayout k
-  - Resources: res/values: e
-  - Resources: strings.xml: e
-  - Resources: colors.xml: e
-  - Resources: styles.xml: e
-  - R class: e
+  - Layouts: TableLayout: 🎓 known
+  - Resources: res/values: 🙋 explained
+  - Resources: strings.xml: 🙋 explained
+  - Resources: colors.xml: 🙋 explained
+  - Resources: styles.xml: 🙋 explained
+  - R class: 🙋 explained
 - User Interface (UI)
   - XML layout files: 🙋 explained
   - TextView: 🙋 explained
-  - EditText: e
+  - EditText: 🙋 explained
   - Button: 🙋 explained
-  - ImageView: e
-  - RecyclerView: u
-  - ListView: u
-  - ScrollView u
-  - CardView u
+  - ImageView: 🙋 explained
+  - RecyclerView: 🖐️ used
+  - ListView: 🖐️ used
+  - ScrollView: 🖐️ used
+  - CardView: 🖐️ used
   - AppBar: 🖐️ used
-  - Custom views: e
-  - Material Design components e
-  - Themes and styles: e
-  - Animations and transitions k
+  - Custom views: 🙋 explained
+  - Material Design components: 🙋 explained
+  - Themes and styles: 🙋 explained
+  - Animations and transitions: 🎓 known
 - Intents and Broadcast Receivers
-  - Explicit intents: u
-  - Implicit intents: u
-  - Passing data between activities: u
-  - Starting activities for result: u
-  - LocalBroadcastManager u
-  - System broadcasts u
-  - Custom broadcasts k
+  - Explicit intents: 🖐️ used
+  - Implicit intents: 🖐️ used
+  - Passing data between activities: 🖐️ used
+  - Starting activities for result: 🖐️ used
+  - LocalBroadcastManager: 🖐️ used
+  - System broadcasts: 🖐️ used
+  - Custom broadcasts: 🎓 known
 - Data Storage
-  - SharedPreferences: e
-  - Internal storage: e
-  - External storage: e
-  - SQLite database e
-  - Room persistence library k
-  - Content providers u
+  - SharedPreferences: 🙋 explained
+  - Internal storage: 🙋 explained
+  - External storage: 🙋 explained
+  - SQLite database: 🙋 explained
+  - Room persistence library: 🎓 known
+  - Content providers: 🖐️ used
 - Networking
-  - HttpURLConnection u
-  - OkHttp: u
-  - Retrofit u
+  - HttpURLConnection: 🖐️ used
+  - OkHttp: 🖐️ used
+  - Retrofit: 🖐️ used
   - JSON parsing: JSONObject: 🎓 known
   - JSON parsing: Gson: 🎓 known
-  - AsyncTask: u
-  - Threading: u
-  - Background services e
+  - AsyncTask: 🖐️ used
+  - Threading: 🖐️ used
+  - Background services: 🙋 explained
 - Services and Background Tasks
-  - Service lifecycle e
-  - IntentService e
-  - JobScheduler k
-  - WorkManager k
-  - BroadcastReceiver u
-  - AlarmManager k
-  - Foreground services e
+  - Service lifecycle: 🙋 explained
+  - IntentService: 🙋 explained
+  - JobScheduler: 🎓 known
+  - WorkManager: 🎓 known
+  - BroadcastReceiver: 🖐️ used
+  - AlarmManager: 🎓 known
+  - Foreground services: 🙋 explained
 - Permissions
-  - Runtime permissions: e
-  - Permission groups u
-  - Checking and requesting permissions: u
+  - Runtime permissions: 🙋 explained
+  - Permission groups: 🖐️ used
+  - Checking and requesting permissions: 🖐️ used
 - Multimedia
-  - Playing audio e
-  - Playing video e
-  - Recording audio k
-  - Camera API u
-  - ExoPlayer e
+  - Playing audio: 🙋 explained
+  - Playing video: 🙋 explained
+  - Recording audio: 🎓 known
+  - Camera API: 🖐️ used
+  - ExoPlayer: 🙋 explained
 - Location and Maps
-  - Google Maps API: k
-  - Location services k
-  - Geocoding and reverse geocoding k
-  - Geofencing k
+  - Google Maps API: 🎓 known
+  - Location services: 🎓 known
+  - Geocoding and reverse geocoding: 🎓 known
+  - Geofencing: 🎓 known
 - Notifications
-  - Notification channels u
-  - Building notifications u
-  - Notification actions u
-  - Notification styles u
-  - Heads-up notifications u
+  - Notification channels: 🖐️ used
+  - Building notifications: 🖐️ used
+  - Notification actions: 🖐️ used
+  - Notification styles: 🖐️ used
+  - Heads-up notifications: 🖐️ used
 - Firebase Integration
-  - Firebase Authentication k
-  - Firebase Realtime Database u
-  - Cloud Firestore k
-  - Firebase Cloud Messaging u
-  - Firebase Analytics k
+  - Firebase Authentication: 🎓 known
+  - Firebase Realtime Database: 🖐️ used
+  - Cloud Firestore: 🎓 known
+  - Firebase Cloud Messaging: 🖐️ used
+  - Firebase Analytics: 🎓 known
   - Firebase Crashlytics
-  - Firebase Storage k
+  - Firebase Storage: 🎓 known
 - Testing
   - Unit testing with JUnit: 🙋 explained
-  - UI testing with Espresso: k
+  - UI testing with Espresso: 🎓 known
   - Mocking with Mockito: 🖐️ used
-  - Robolectric h
+  - Robolectric: 👂 heard
 - Jetpack Libraries
-  - ViewModel e
-  - LiveData e
-  - Data Binding: e
+  - ViewModel: 🙋 explained
+  - LiveData: 🙋 explained
+  - Data Binding: 🙋 explained
   - Navigation component: 🖐️ used
-  - Paging library k
-  - Room k
-  - CameraX k
+  - Paging library: 🎓 known
+  - Room: 🎓 known
+  - CameraX: 🎓 known
 - Advanced Topics
   - Architecture components: MVVM: 🙋 explained
-  - Architecture components: MVI k
-  - Architecture components: MVP k
-  - ProGuard and R8 h
-  - Performance optimization k
+  - Architecture components: MVI: 🎓 known
+  - Architecture components: MVP: 🎓 known
+  - ProGuard and R8: 👂 heard
+  - Performance optimization: 🎓 known
   - App bundles: 🖐️ used
-  - Custom ROMs and rooting h
+  - Custom ROMs and rooting: 👂 heard
   - Dependency Injection: 🙋 explained

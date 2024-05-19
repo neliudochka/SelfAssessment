@@ -30,7 +30,7 @@
   - Exceptions: 🙋 explained
   - Errors: 🙋 explained
   - `try...catch`: 🙋 explained
-  - Nothing type: k
+  - Nothing type: 🎓 known
   - `List`: 🙋 explained
   - `MutableList`: 🙋 explained
   - `Set`: 🙋 explained
@@ -39,8 +39,8 @@
   - `MutableMap`: 🙋 explained
   - `Collection`: 🙋 explained
   - `Iterable`: 🙋 explained
-  - `Ranges`: k
-  - `Sequences`: k
+  - `Ranges`: 🎓 known
+  - `Sequences`: 🎓 known
   - Functions: Arguments: 🙋 explained
   - Functions: Return type: 🙋 explained
   - Functions: Function signature: 🙋 explained
@@ -69,16 +69,16 @@
   - Packages: 🙋 explained
   - Type aliases: 👂 heard
   - Import aliases: 👂 heard
-  - Value classes: k
+  - Value classes: 🎓 known
 - OOP
   - Abstract classes: 🙋 explained
   - Abstract method: 🙋 explained
   - Abstract property: 🙋 explained
   - Interface: 🙋 explained
-  - Closed class u
-  - Open class u
-  - Open method u
-  - Open property u
+  - Closed class: 🖐️ used
+  - Open class: 🖐️ used
+  - Open method: 🖐️ used
+  - Open property: 🖐️ used
   - Nested class: 🙋 explained
   - Inner class: 🙋 explained
   - `public`: 🙋 explained
@@ -87,23 +87,23 @@
   - `private`: 🙋 explained
   - Sealed class
   - Sealed interface
-  - Unsafe class operator `as`: u
-  - Safe class operator `as?`: e
-  - Type check operators `is` & `!is`: u
-  - Smart cast: u
+  - Unsafe class operator `as`: 🖐️ used
+  - Safe class operator `as?`: 🙋 explained
+  - Type check operators `is` & `!is`: 🖐️ used
+  - Smart cast: 🖐️ used
   - Delegation: `lazy`: 🖐️ used
-  - Delegation: `observable` k
+  - Delegation: `observable`: 🎓 known
   - Delegation: `vetoable`
   - Delegate to other property
   - Delegate to map collection
   - Custom delegates
   - Delegation pattern
 - Generics
-  - Class with type arguments: u
-  - Method with type arguments: u
+  - Class with type arguments: 🖐️ used
+  - Method with type arguments: 🖐️ used
   - Type erasure
   - Upper bound: 🎓 known
-  - Multiple bounds `where` u
+  - Multiple bounds `where`: 🖐️ used
   - Covariant type args `out`
   - Covariant type args `in`
   - Input projection `in`
@@ -111,17 +111,17 @@
   - Star-projection
   - Reified functions
 - Functional programming
-  - Lambda declaration: u
+  - Lambda declaration: 🖐️ used
   - Lambda instantiation: 🎓 known
-  - Invoking lambdas: u
-  - Functional Interfaces: u
-  - Callable references: u
+  - Invoking lambdas: 🖐️ used
+  - Functional Interfaces: 🖐️ used
+  - Callable references: 🖐️ used
   - `noinline`
   - `crossinline`
   - Scoped functions: `with`
   - Scoped functions: `let`: 🎓 known
   - Scoped functions: `run`
-  - Scoped functions: `apply` u
+  - Scoped functions: `apply`: 🖐️ used
   - Scoped functions: `also`
   - Scoped functions: `takeif`
   - Custom scope functions
@@ -134,7 +134,7 @@
   - `ByteArrayInputStream`: 🙋 explained
   - `DataOutputStream`: 🙋 explained
   - `DataInputStream`: 🙋 explained
-  - `use{...}` function: k
+  - `use{...}` function: 🎓 known
   - `OutputStreamWriter`: 🙋 explained
   - `InputStreamReader`: 🙋 explained
   - Serialization
@@ -152,12 +152,12 @@
   - `ExecutorServices`
   - Synchronizations: 🙋 explained
   - Atomic types: 🖐️ used
-  - Atomic operations u
+  - Atomic operations: 🖐️ used
   - Dead locks: 🙋 explained
   - Race conditions
-  - Live locks k
-  - Starvation k
-  - Synchronized collections k
+  - Live locks: 🎓 known
+  - Starvation: 🎓 known
+  - Synchronized collections: 🎓 known
   - `runBlocking`
   - `launch`
   - `async`: 🙋 explained

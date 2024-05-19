@@ -14,29 +14,29 @@
   - libuv
   - Race conditions
   - Dead locks: 🖐️ used
-  - Live locks k
-  - Concurrent programming: u
-  - Parallel programming: u
-  - Actor Model k
-  - Thread: e
-  - Process: e
+  - Live locks: 🎓 known
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Actor Model: 🎓 known
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
-  - Callbacks: e
-  - Callback-last-error-first h
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 👂 heard
   - Thenable
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
   - Future
   - Deferred
-  - Sync generator u
-  - Async Generator k
-  - Async Iterator u
+  - Sync generator: 🖐️ used
+  - Async Generator: 🎓 known
+  - Async Iterator: 🖐️ used
   - Event: 🙋 explained
-  - Coroutine: u
+  - Coroutine: 🖐️ used
   - Goroutine: 🎓 known
   - Signal: 🎓 known
-  - Stream: k
-  - Chain of responsibility h
+  - Stream: 🎓 known
+  - Chain of responsibility: 👂 heard
   - Middleware: 🎓 known
   - Locks: 🖐️ used
 - Async adapters and utils
@@ -47,16 +47,16 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
-  - Observable/Observer: u
-  - Readable u
-  - Writable u
+  - Observable/Observer: 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Async Pool: 🖐️ used
   - Async Queue: 🖐️ used
-  - Async Collector k
-  - Semaphore: e
-  - Mutex: e
-  - Spin Lock k
+  - Async Collector: 🎓 known
+  - Semaphore: 🙋 explained
+  - Mutex: 🙋 explained
+  - Spin Lock: 🎓 known
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 👂 heard
@@ -82,7 +82,7 @@
   - Promise.allSettled
   - Promise.race
   - Promise.any
-  - Web Locks API h
+  - Web Locks API: 👂 heard
   - IPC
-  - Channel API h
+  - Channel API: 👂 heard
   - Revealing constructor
