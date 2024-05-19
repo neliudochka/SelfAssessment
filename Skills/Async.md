@@ -1,11 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop: 🙋 explained
+  - `try..catch`: 🙋 explained
+  - Non-blocking: 🖐️ used
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,32 +13,32 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
+  - Dead locks: 🖐️ used
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
+  - Event: 🙋 explained
+  - Coroutine: 🎓 known
+  - Goroutine: 🎓 known
+  - Signal: 🎓 known
+  - Stream: 👂 heard
   - Chain of responsibility
-  - Middleware
-  - Locks
+  - Middleware: 🎓 known
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,26 +46,26 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 👂 heard
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool: 🖐️ used
+  - Async Queue: 🖐️ used
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore: 🎓 known
+  - Mutex: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  - Timers: 🖐️ used
+  - `setImmediate`: 👂 heard
+  - `nextTick`: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics: 🙋 explained
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -77,9 +76,9 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library
+  - Async.js library: 👂 heard
   - RxJS library
-  - Promise.all
+  - Promise.all: 👂 heard
   - Promise.allSettled
   - Promise.race
   - Promise.any

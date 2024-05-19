@@ -1,32 +1,32 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🙋 explained
   - Performance tuning
-  - Migrations
+  - Migrations: 🎓 known
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery: 🎓 known
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases: 🖐️ used
+  - Key-value store: 🖐️ used
   - Tuple store
   - Graph databases
   - Object databases
   - Column databases
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases
+  - In-memory databases: 👂 heard
   - Inverted index
   - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
+  - Data definition language (DDL): 🖐️ used
+  - Data manipulation language (DML): 🖐️ used
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram: 🙋 explained
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
+  - Primary keys: 🖐️ used
+  - Foreign keys: 🖐️ used
   - Transactions
   - Views
   - Subqueries
@@ -36,17 +36,17 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
+  - `JOIN`: 🖐️ used
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
@@ -56,11 +56,11 @@
   - `LIKE`
   - `IN`
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,14 +70,14 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL: 🎓 known
   - Oracle
-  - MySQL
+  - MySQL: 🎓 known
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
@@ -90,5 +90,5 @@
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databases
+  - Cloud databases: 👂 heard
   - Data Visualization
