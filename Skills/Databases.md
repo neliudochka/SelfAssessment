@@ -4,14 +4,14 @@
   - Data types r
   - Performance tuning r
   - Migrations r
-  - Schema versioning
+  - Schema versioning +
   - Backup and recovery k
   - Database scalability
   - Relational databases u
   - Key-value store u
-  - Tuple store
-  - Graph databases
-  - Object databases
+  - Tuple store +
+  - Graph databases +
+  - Object databases +
   - Column databases
   - Navigational databases
   - Hierarchical databases
