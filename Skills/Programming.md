@@ -95,15 +95,15 @@
   - Tail call optimisation
   - Callback: 🙋 explained
   - Listener: 🙋 explained
-  - Composition
+  - Composition: 🎓 known
   - Pipe
   - Memoize
   - Wrapper: 🙋 explained
   - Functor
-  - Monad
-  - Monoid
+  - Monad: 👂 heard
+  - Monoid: 👂 heard
   - Generator: 🖐️ used
-  - Coroutine: 🎓 known
+  - Coroutine: 🖐️ used
 - Data structures
   - Array: 🙋 explained
   - Structure: 🙋 explained
@@ -129,8 +129,8 @@
   - Serialization: 🙋 explained
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
-  - JSON5
-  - YAML: 🎓 known
+  - JSON5: 👂 heard
+  - YAML: 🖐️ used
 - Networking
   - DNS: 🙋 explained
   - CDN
@@ -157,7 +157,7 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection: 🙋 explained
   - Refactoring: 🙋 explained
@@ -173,7 +173,7 @@
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
-  - Soft code
+  - Soft code: 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity
@@ -199,8 +199,8 @@
   - Use fields instead of arguments: 👂 heard
   - Data clump
   - Feature envy
-  - Monkey patch
-  - Yo-yo problem
+  - Monkey patch: 🎓 known
+  - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
   - Bytecode: 🙋 explained
   - V8
@@ -227,7 +227,7 @@
   - RFC: 🖐️ used
   - IETF
   - IANA
-  - IEEE
+  - IEEE: 👂 heard
   - Base64
   - ECMA
   - ICANN

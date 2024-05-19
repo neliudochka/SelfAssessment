@@ -1,13 +1,13 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 👂 heard
+  - Modularity: 🎓 known
   - Components: 🎓 known
   - Directories: 🎓 known
-  - GRASP
+  - GRASP: 🎓 known
   - SOLID: 🙋 explained
-  - GoF patterns
-  - CQS
+  - GoF patterns: 👂 heard
+  - CQS: 👂 heard
   - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🖐️ used
   - Contract programming: 🖐️ used
@@ -18,18 +18,18 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 👂 heard
   - Domain-specific language (DSL): 🎓 known
   - System vs applied code
-  - Multilayer approach: 👂 heard
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Multilayer approach: 🎓 known
+  - Hexagonal architecture: 👂 heard
+  - Separation of concerns (SoC): 👂 heard
   - Metaprogramming: 🎓 known
   - Inversion of control (IoC)
   - Dependency injection (DI): 🙋 explained
@@ -42,17 +42,17 @@
   - Message Queue (MQ): 🎓 known
   - CQRS
   - Event sourcing
-  - E-R data modeling
+  - E-R data modeling: 🖐️ used
   - Entity-relationship diagram: 🙋 explained
   - IDEF1X
   - UML: 🙋 explained
-  - Work breakdown structure
+  - Work breakdown structure: 🎓 known
   - Budget estimation: 🖐️ used
   - Distributed systems: 🎓 known
   - High-intensive computing: 👂 heard
   - Load balancing: 🎓 known
   - Gateways: 👂 heard
-  - On-premises
+  - On-premises: 👂 heard
   - IaaS
   - PaaS
   - SaaS
@@ -65,20 +65,20 @@
   - Solution visions
   - Solution capabilities
   - System design: 🎓 known
-  - Process modelling
+  - Process modelling: 👂 heard
   - Data modelling: 👂 heard
   - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
+  - Risk assessment: 🖐️ used
+  - Non Functional Requirements (NFR): 🖐️ used
+  - Clouds: 🎓 known
   - BPMN
   - Low-code: 👂 heard
   - No-code: 🎓 known
-  - Metric
+  - Metric: 👂 heard
   - Metric abuse
   - ACID: 👂 heard
   - CAP theorem
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT): 👂 heard
 - Enterprise architecture
   - Understanding business needs: 🖐️ used
   - Enterprise strategy: 👂 heard
@@ -87,14 +87,14 @@
   - Enterprise capabilities
   - Project scope: 👂 heard
   - Enterprise service bus
-  - Service-oriented architecture
+  - Service-oriented architecture: 👂 heard
   - Microservices: 🎓 known
   - Process choreography
   - Service orchestration
   - Data warehouse: 👂 heard
   - Business Intelligence
-  - OLAP
-  - OLTP
-  - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - OLAP: 👂 heard
+  - OLTP: 👂 heard
+  - Conways Law: 🎓 known
+  - Quality assurance: 🎓 known
+  - Engineering Hygiene: 👂 heard
