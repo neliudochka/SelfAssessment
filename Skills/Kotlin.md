@@ -1,97 +1,97 @@
 ## Kotlin
 - Language
-  - Variables e
-  - Primitive types e
-  - Unsigned types e
-  - Nullable types e
-  - Non-nullable types e
-  - `String` e
-  - `Any` e
-  - `Unit` e
-  - Mapping to Java types h
-  - Arithmetic operators e
-  - Boolean operators e
-  - Complex conditions e
-  - Conditional operators e
-  - Elvis operator `?:` e
-  - Safe call opearator `?.` e
-  - `for` loop e
-  - `while...do` loop e
-  - `do...while` loop e
-  - `forEach{...}` e
-  - `forEachInIndexed{...}` e
-  - `Arrays<T>` e
-  - Primitive arrays e
-  - Log & Debug e
-  - Log & Debug: `stdout` e
-  - Log & Debug: `stderr` e
-  - Log & Debug: Breakpoints e
-  - Log & Debug: Step-by-step running e
-  - Exceptions e
-  - Errors e
-  - `try...catch` e
-  - Nothing type h
-  - `List` e
-  - `MutableList` e
-  - `Set` e
-  - `MutableSet` e
-  - `Map` e
-  - `MutableMap` e
-  - `Collection` e
-  - `Iterable` e
-  - `Ranges` h
-  - `Sequences` h
-  - Functions: Arguments e
-  - Functions: Return type e
-  - Functions: Function signature e
-  - Functions: `varargs` e
-  - Functions: Function overloading e
-  - Functions: Extension functions e
-  - Functions: Inline functions e
-  - Functions: Infix functions h
-  - Recursion: Recursive functions e
-  - Recursion: StackOverFlowError e
-  - Recursion: `Tailrec` functions h
-  - Constructors e
-  - Initializers e
-  - Properties e
-  - Getters & Setters e
-  - Methods e
-  - `this` e
-  - Objects e
-  - Companion objects e
-  - References e
-  - Muttable & immutable classes k
-  - Enum classes e
-  - Class `Any` e
-  - Operator overloading k
-  - Data classes e
-  - Packages e
-  - Type aliases h
-  - Import aliases h
+  - Variables: 🙋 explained
+  - Primitive types: 🙋 explained
+  - Unsigned types: 🙋 explained
+  - Nullable types: 🙋 explained
+  - Non-nullable types: 🙋 explained
+  - `String`: 🙋 explained
+  - `Any`: 🙋 explained
+  - `Unit`: 🙋 explained
+  - Mapping to Java types: 👂 heard
+  - Arithmetic operators: 🙋 explained
+  - Boolean operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - Conditional operators: 🙋 explained
+  - Elvis operator `?:`: 🙋 explained
+  - Safe call opearator `?.`: 🙋 explained
+  - `for` loop: 🙋 explained
+  - `while...do` loop: 🙋 explained
+  - `do...while` loop: 🙋 explained
+  - `forEach{...}`: 🙋 explained
+  - `forEachInIndexed{...}`: 🙋 explained
+  - `Arrays<T>`: 🙋 explained
+  - Primitive arrays: 🙋 explained
+  - Log & Debug: 🙋 explained
+  - Log & Debug: `stdout`: 🙋 explained
+  - Log & Debug: `stderr`: 🙋 explained
+  - Log & Debug: Breakpoints: 🙋 explained
+  - Log & Debug: Step-by-step running: 🙋 explained
+  - Exceptions: 🙋 explained
+  - Errors: 🙋 explained
+  - `try...catch`: 🙋 explained
+  - Nothing type: 👂 heard
+  - `List`: 🙋 explained
+  - `MutableList`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `MutableSet`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `MutableMap`: 🙋 explained
+  - `Collection`: 🙋 explained
+  - `Iterable`: 🙋 explained
+  - `Ranges`: 👂 heard
+  - `Sequences`: 👂 heard
+  - Functions: Arguments: 🙋 explained
+  - Functions: Return type: 🙋 explained
+  - Functions: Function signature: 🙋 explained
+  - Functions: `varargs`: 🙋 explained
+  - Functions: Function overloading: 🙋 explained
+  - Functions: Extension functions: 🙋 explained
+  - Functions: Inline functions: 🙋 explained
+  - Functions: Infix functions: 👂 heard
+  - Recursion: Recursive functions: 🙋 explained
+  - Recursion: StackOverFlowError: 🙋 explained
+  - Recursion: `Tailrec` functions: 👂 heard
+  - Constructors: 🙋 explained
+  - Initializers: 🙋 explained
+  - Properties: 🙋 explained
+  - Getters & Setters: 🙋 explained
+  - Methods: 🙋 explained
+  - `this`: 🙋 explained
+  - Objects: 🙋 explained
+  - Companion objects: 🙋 explained
+  - References: 🙋 explained
+  - Muttable & immutable classes: 🎓 known
+  - Enum classes: 🙋 explained
+  - Class `Any`: 🙋 explained
+  - Operator overloading: 🎓 known
+  - Data classes: 🙋 explained
+  - Packages: 🙋 explained
+  - Type aliases: 👂 heard
+  - Import aliases: 👂 heard
 - Value classes e
 - OOP
-  - Abstract classes e
-  - Abstract method e
-  - Abstract property e
-  - Interface e
+  - Abstract classes: 🙋 explained
+  - Abstract method: 🙋 explained
+  - Abstract property: 🙋 explained
+  - Interface: 🙋 explained
   - Closed class
   - Open class
   - Open method
   - Open property
-  - Nested class e
-  - Inner class e
-  - `public` e
-  - `protected` e
-  - `internal` e
-  - `private` e
+  - Nested class: 🙋 explained
+  - Inner class: 🙋 explained
+  - `public`: 🙋 explained
+  - `protected`: 🙋 explained
+  - `internal`: 🙋 explained
+  - `private`: 🙋 explained
   - Sealed class
   - Sealed interface
-  - Unsafe class operator `as` h
-  - Safe class operator `as?` h
-  - Type check operators `is` & `!is` h
-  - Smart cast h
-  - Delegation: `lazy` u
+  - Unsafe class operator `as`: 👂 heard
+  - Safe class operator `as?`: 👂 heard
+  - Type check operators `is` & `!is`: 👂 heard
+  - Smart cast: 👂 heard
+  - Delegation: `lazy`: 🖐️ used
   - Delegation: `observable`
   - Delegation: `vetoable`
   - Delegate to other property
@@ -99,10 +99,10 @@
   - Custom delegates
   - Delegation pattern
 - Generics
-  - Class with type arguments k
-  - Method with type arguments k
+  - Class with type arguments: 🎓 known
+  - Method with type arguments: 🎓 known
   - Type erasure
-  - Upper bound k
+  - Upper bound: 🎓 known
   - Multiple bounds `where`
   - Covariant type args `out`
   - Covariant type args `in`
@@ -111,56 +111,56 @@
   - Star-projection
   - Reified functions
 - Functional programming
-  - Lambda declaration k
-  - Lambda instantiation k
-  - Invoking lambdas k
-  - Functional Interfaces k
-  - Callable references k
+  - Lambda declaration: 🎓 known
+  - Lambda instantiation: 🎓 known
+  - Invoking lambdas: 🎓 known
+  - Functional Interfaces: 🎓 known
+  - Callable references: 🎓 known
   - `noinline`
   - `crossinline`
   - Scoped functions: `with`
-  - Scoped functions: `let` k
+  - Scoped functions: `let`: 🎓 known
   - Scoped functions: `run`
   - Scoped functions: `apply`
   - Scoped functions: `also`
   - Scoped functions: `takeif`
   - Custom scope functions
 - Input\Output Streams
-  - `readLine` e
-  - `readIn` e
-  - `readInOrNull` e
-  - `Scanner` e
-  - `ByteArrayOutputStream` e
-  - `ByteArrayInputStream` e
-  - `DataOutputStream` e
-  - `DataInputStream` e
-  - `use{...}` function h
-  - `OutputStreamWriter` e
-  - `InputStreamReader` e
+  - `readLine`: 🙋 explained
+  - `readIn`: 🙋 explained
+  - `readInOrNull`: 🙋 explained
+  - `Scanner`: 🙋 explained
+  - `ByteArrayOutputStream`: 🙋 explained
+  - `ByteArrayInputStream`: 🙋 explained
+  - `DataOutputStream`: 🙋 explained
+  - `DataInputStream`: 🙋 explained
+  - `use{...}` function: 👂 heard
+  - `OutputStreamWriter`: 🙋 explained
+  - `InputStreamReader`: 🙋 explained
   - Serialization
-  - `BufferedOutputStream` e
+  - `BufferedOutputStream`: 🙋 explained
   - `BufferedInputStream`e
   - `BufferedReader`e
   - `BufferedWriter`e
   - `File`e
-  - `RandomAccessFile` e
+  - `RandomAccessFile`: 🙋 explained
   - `FileTreeWalk`h
-  - `FileInputStream` e
-  - `FileOutputStream` e
+  - `FileInputStream`: 🙋 explained
+  - `FileOutputStream`: 🙋 explained
 - Async programming
-  - `Thread` e
+  - `Thread`: 🙋 explained
   - `ExecutorServices`
-  - Synchronizations e
-  - Atomic types e
+  - Synchronizations: 🙋 explained
+  - Atomic types: 🙋 explained
   - Atomic operations
-  - Dead locks e
+  - Dead locks: 🙋 explained
   - Race conditions
   - Live locks
   - Starvation
   - Synchronized collections
   - `runBlocking`
   - `launch`
-  - `async` e
+  - `async`: 🙋 explained
   - `suspend` functions
   - Structures concurrency
   - Coroutine Context
@@ -168,7 +168,7 @@
   - `Job`
   - `Name`
   - `CorutineExceptionHandler`
-  - Coroutine Scope k
+  - Coroutine Scope: 🎓 known
   - Cancellation & Timeouts
   - `withContext{...}` function
   - `suspendCancellableCoroutine{...}` function
@@ -179,4 +179,4 @@
   - `callbackFlow{...}`
   - Flow cancellation
   - Combining multiple flows
-  - `StateFlow` & `SharedFlow` 
+  - `StateFlow` & `SharedFlow`
